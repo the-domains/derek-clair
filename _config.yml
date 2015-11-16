@@ -1,0 +1,23 @@
+name: Derek Clair
+favicon: null
+layout_spectrum: 0.5739519929047674
+typography_spectrum: 0.11372015322558582
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6068624360486865
+  lightness: 0.42605413612909615
+  saturation: 0.4720598941203207
+  rhythmicContrast: 0.49379075947217643
+purpose: []
