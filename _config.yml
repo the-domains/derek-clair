@@ -2,13 +2,13 @@ name: Derek Clair
 favicon: null
 layout_spectrum: 0.25524
 typography_spectrum: 0.18998
-title: A gentleman and a scholar.
+title: null
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: UA-5175648-2
+  google: null
   facebook: null
   twitter: null
 opengraph:
